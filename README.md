@@ -1,4 +1,4 @@
-# alura_javabasico
+# alura_JavaBasico
 Alura: Java Básico
 
 Aqui estão todos os projetos desenvolvidos durante os cursos Java: Criando a sua primeira aplicação da Alura.
