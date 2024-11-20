@@ -14,8 +14,8 @@ public class OpMatArea {
             numero1 = numero1 * numero1;
         System.out.println("O valor da área para o quadrado informado é " + numero1 + " metros quadrados.");
         System.out.println("Digite o valor do raio do Círculo: ");
-        numero2 = entrada2.nextDouble();
-        numero2 = (numero2*numero2)*pi;
+            numero2 = entrada2.nextDouble();
+            numero2 = (numero2*numero2)*pi;
         System.out.println("O valor da área para o círculo informado é: " + numero2 + " metros quadrados.");
         System.out.println("Programa finalizado com sucesso.");
         }
