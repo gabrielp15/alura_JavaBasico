@@ -6,16 +6,16 @@ public class OperacoesCaixa {
         double valorDesconto, valorDescontoDolar, valorFinalReais, precoFinal, precoFinalDolar, valorFinalDolar;
 
         System.out.println("Digite o valor original do produto: ");
-        double precoProdutoInicial = scanner.nextDouble();
+            double precoProdutoInicial = scanner.nextDouble();
 
         System.out.println("Digite a quantidade de produtos: ");
-        double quantidade = scanner.nextDouble();
+            double quantidade = scanner.nextDouble();
 
         System.out.println("Digite a porcentagem do desconto a ser oferecido: ");
-        double percentualDesconto = scanner.nextDouble();
+            double percentualDesconto = scanner.nextDouble();
 
         System.out.println("Informe o valor do Dólar hoje:");
-        double valorDolar = scanner.nextDouble();
+            double valorDolar = scanner.nextDouble();
 
 
         precoFinal = precoProdutoInicial * quantidade;
