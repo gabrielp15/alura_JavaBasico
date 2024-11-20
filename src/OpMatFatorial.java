@@ -17,4 +17,3 @@ public class OpMatFatorial {
         System.out.println("O valor do fatorial para o número digitado é " + resultado);
     }
 }
-// VERIFICAR POSSIBILIDADES QUE NÃO DEEM BUFFER OVERFLOW!
